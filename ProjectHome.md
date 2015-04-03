@@ -1,0 +1,1 @@
+Proyecto utilizado para probar Mercurial para la asignatura Ingeniería de Software.
